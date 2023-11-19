@@ -10,6 +10,10 @@ Both the systems (the log ingestor and the query interface) can be built using a
 
 The logs should be ingested (in the log ingestor) over HTTP, on port `3000`.
 
+### Video Explanation
+
+https://github.com/meet13552/LogBook/assets/8711235/8099a0bc-ae12-4fb0-9d13-e8a401b019b3
+
 ## Features
 
 😊 &nbsp;User friendly Web UI
@@ -106,10 +110,6 @@ npm start
 ### System Design
 
 <img width="1088" alt="Screenshot 2023-11-19 at 12 57 55 PM" src="https://github.com/meet13552/LogBook/assets/8711235/63c48d82-9d08-4051-be5a-14168817943c">
-
-### Video Explanation
-
-Place video explanation here
 
 ### Tech Stack
 
