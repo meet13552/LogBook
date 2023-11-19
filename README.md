@@ -105,7 +105,7 @@ npm start
 
 ### System Design
 
-Place system design image here
+<img width="1088" alt="Screenshot 2023-11-19 at 12 57 55 PM" src="https://github.com/meet13552/LogBook/assets/8711235/63c48d82-9d08-4051-be5a-14168817943c">
 
 ### Video Explanation
 
